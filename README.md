@@ -3,4 +3,4 @@
 - Mi numero de legajo es: 222.547-5
 
   Esta es una foto de mi perrita
-- ![perro]()
+- ![perro](boo.jpg)
